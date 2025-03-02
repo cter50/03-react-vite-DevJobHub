@@ -1,5 +1,3 @@
-# React Vite Jobhunter template
-Template này được sử dụng cho series Java Spring Restful (dự án jobHunter) của tác giả Hỏi Dân IT (Eric)
 
 ### Môi trường chạy dự án: Node.js v16.20.0
 
